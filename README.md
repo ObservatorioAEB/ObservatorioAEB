@@ -56,17 +56,61 @@ Somos um projeto colaborativo, e sua participação é fundamental!
 2. **Faça um fork**:  
    ```bash
    git fork https://github.com/aeb/observatorio.git
-<!--
-**ObservatorioAEB/ObservatorioAEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ```
 
-Here are some ideas to get you started:
+<h3>👥 Equipe</h3>
+<p>Conheça os membros responsáveis pelo desenvolvimento e operação do Observatório da AEB:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%; border-collapse: collapse; text-align: center;">
+    <thead>
+        <tr>
+            <th>Foto</th>
+            <th>Nome</th>
+            <th>Cargo</th>
+            <th>LinkedIn</th>
+            <th>Contato</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://media.licdn.com/dms/image/v2/D4D03AQE5MHgG_NWnWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710614885259?e=1737590400&v=beta&t=D2SJ8uAO4beF69LS_oqbEBCq6V71A_1ZjWQxfBFrk5I" alt="Foto do Marcio Akira Harada" width="100" height="100" /></td>
+            <td><b>Marcio Akira Harada</b></td>
+            <td>Coordenador de Monitoramento e Avaliação</td>
+            <td><a href="https://www.linkedin.com/in/marcioakiraharada/" target="_blank">LinkedIn</a></td>
+            <td><a href="mailto:marcio@email.com">marcio@email.com</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://media.licdn.com/dms/image/v2/D4D03AQH7Cl9adH2ciA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718735736621?e=1737590400&v=beta&t=P8U4NGrbza3GXkMUbY3iEkgF7b_oTucnOgari1TGNo4" alt="Foto da Andreza Barros Oliveira" width="100" height="100" /></td>
+            <td><b>Andreza Barros Oliveira</b></td>
+            <td>Assistente</td>
+            <td><a href="https://www.linkedin.com/in/andreza-oliveira-bb4538138/" target="_blank">LinkedIn</a></td>
+            <td><a href="mailto:andreza@email.com">andreza@email.com</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://media.licdn.com/dms/image/v2/C4D03AQFqOYEPaLO_gA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1627915581882?e=1737590400&v=beta&t=ZMuoT5gLS0uacvqZ70mrjl2lOA2DvIVK21VhSQ5uwZg" alt="Foto do Luis Gustavo Pereira de Oliveira" width="100" height="100" /></td>
+            <td><b>Luis Gustavo Pereira de Oliveira</b></td>
+            <td>Assistente Administrativo</td>
+            <td><a href="https://www.linkedin.com/in/lu%C3%ADs-gustavo-381310219/" target="_blank">LinkedIn</a></td>
+            <td><a href="mailto:luis@email.com">luis@email.com</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://media.licdn.com/dms/image/v2/D4D03AQFu_2PZU_BO9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709528899527?e=1737590400&v=beta&t=IEH4Bi2OvWZKJmnT48n4qekF-WDbX8mG0js-w-FE8Ks" alt="Foto da Brenda Beatriz Maciel da Silva" width="100" height="100" /></td>
+            <td><b>Brenda Beatriz Maciel da Silva</b></td>
+            <td>Estagiária</td>
+            <td><a href="https://www.linkedin.com/in/brenda-beatriz/" target="_blank">LinkedIn</a></td>
+            <td><a href="mailto:brenda@email.com">brenda@email.com</a></td>
+        </tr>
+        <tr>
+ <td><img src="https://media.licdn.com/dms/image/v2/D4D03AQEJlRLCjqr7HQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727529083860?e=1737590400&v=beta&t=-HL1OOHEv229xslWb_115NGd7-cwBpYxvH5iSdNenPU" alt="Foto da Brenda Beatriz Maciel da Silva" width="100" height="100" /></td>
+            <td><b>Brenda Beatriz Maciel da Silva</b></td>
+            <td>Estagiária</td>
+            <td><a href="https://www.linkedin.com/in/carol-evy/" target="_blank">LinkedIn</a></td>
+            <td><a href="mailto:brenda@email.com">Evy@email.com</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
