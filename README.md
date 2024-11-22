@@ -102,7 +102,7 @@ Somos um projeto colaborativo, e sua participação é fundamental!
         </tr>
         <tr>
  <td><img src="https://media.licdn.com/dms/image/v2/D4D03AQEJlRLCjqr7HQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727529083860?e=1737590400&v=beta&t=-HL1OOHEv229xslWb_115NGd7-cwBpYxvH5iSdNenPU" alt="Foto da Brenda Beatriz Maciel da Silva" width="100" height="100" /></td>
-            <td><b>Brenda Beatriz Maciel da Silva</b></td>
+            <td><b>Evelyn Caroline Morais Targino</b></td>
             <td>Estagiária</td>
             <td><a href="https://www.linkedin.com/in/carol-evy/" target="_blank">LinkedIn</a></td>
             <td><a href="mailto:brenda@email.com">Evy@email.com</a></td>
